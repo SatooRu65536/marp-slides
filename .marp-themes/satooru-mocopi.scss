@@ -284,6 +284,13 @@ section {
       margin-right: auto;
     }
   }
+
+  &.center {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+  }
 }
 
 header {

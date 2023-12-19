@@ -258,6 +258,11 @@ section {
     section.lead table {
       margin-left: auto;
       margin-right: auto; }
+  section.center {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center; }
 
 header {
   box-sizing: border-box;
