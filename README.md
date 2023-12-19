@@ -1,6 +1,6 @@
-# 高大連携LT会資料
+# 発表スライド
 
 ## SASSのコンパイル
 ```shell
-sass marp-themes/satooru-mocopi.scss marp-themes/satooru-mocopi.css
+sass --watch .marp-themes/satooru-mocopi.scss:.marp-themes/satooru-mocopi.css
 ```
