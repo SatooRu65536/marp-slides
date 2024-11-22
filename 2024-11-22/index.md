@@ -16,13 +16,11 @@ _paginate: false
 <br>
 
 システム工学研究会
-B2 多田 隆人
+B2 ~~多田 隆人~~ **佐藤さとる**
 
 ---
 
 <!-- _header: だれ -->
-
-<!-- _header: CSS の使い方 -->
 
 <img
   src="images/broken_penguin.png"
@@ -40,9 +38,12 @@ B2 多田 隆人
 - ペンギンがすき
 - TODO
 
-  <div style="padding-top: 30px">
-    <p>X: @SatooRu65536</p>
-  </div>
+<div style="padding-top: 30px">
+  <p>
+    <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 14 14" style="vertical-align: sub"><g fill="none"><g clip-path="url(#primeTwitter0)"><path fill="currentColor" d="M11.025.656h2.147L8.482 6.03L14 13.344H9.68L6.294 8.909l-3.87 4.435H.275l5.016-5.75L0 .657h4.43L7.486 4.71zm-.755 11.4h1.19L3.78 1.877H2.504z"/></g><defs><clipPath id="primeTwitter0"><path fill="#fff" d="M0 0h14v14H0z"/></clipPath></defs></g></svg>
+    <span>:@SatooRu65536</span>
+  </p>
+</div>
 
 </div>
 
@@ -82,7 +83,7 @@ B2 多田 隆人
 <div style="margin-left:200px">
 
 - お絵描き言語の1つ
-- アニメーションをつけれる
+- アニメーションもつけれる
 - 
 - 
 
@@ -95,7 +96,7 @@ B2 多田 隆人
 <div style="margin-left:200px">
 
 - お絵描き言語の1つ
-- アニメーションをつけれる
+- アニメーションもつけれる
 - 3D表現もできる
 - 
 
@@ -108,7 +109,7 @@ B2 多田 隆人
 <div style="margin-left:200px">
 
 - お絵描き言語の1つ
-- アニメーションをつけれる
+- アニメーションもつけれる
 - 3D表現もできる
 - Webページのスタイルを指定することもできる
 
