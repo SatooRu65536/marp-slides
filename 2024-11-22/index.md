@@ -654,3 +654,34 @@ div.right {
   <p style="text-wrap: nowrap; text-align: left">CSSと</p>
   <p style="text-wrap: nowrap; text-align: left">仲良くしましょう</p>
 </div>
+
+---
+
+<div
+  style="
+    margin-top: 50px;
+    margin-inline: auto;
+    display: flex;
+    gap: 100px;
+  "
+>
+  <div style="text-align: center">
+    <img
+      src="images/qr-slide.png"
+      width="200"
+      height="200"
+      style=""
+    />
+    <p>matsuriba.satooru.me</p>
+  </div>
+
+  <div style="text-align: center">
+    <img
+      src="images/qr-profile.png"
+      width="200"
+      height="200"
+      style=""
+    />
+    <p>satooru.me</p>
+  </div>
+</div>
