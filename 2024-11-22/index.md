@@ -629,16 +629,16 @@ div.right {
 
 ### 3DCGも作れます!!
 
-<video
-  src="./videos/dice.mov"
+<iframe
+  src="https://css.satooru.dev/genshin-dice/"
   style="
+    margin-inline: auto;
+    display: block;
     width: 500px;
     position: relative;
+    border: none;
   "
-  autoplay
-  loop
-  muted
-/>
+></iframe>
 
 ---
 
@@ -653,6 +653,18 @@ div.right {
 >
   <p style="text-wrap: nowrap; text-align: left">CSSと</p>
   <p style="text-wrap: nowrap; text-align: left">仲良くしましょう</p>
+</div>
+
+<div
+  style="
+    margin-top: 50px;
+    margin-inline: auto;
+    display: flex;
+    gap: 100px;
+  "
+>
+<img width="200" src="images/qr-slide.png" />
+<img width="200" src="images/qr-profile.png" />
 </div>
 
 ---
